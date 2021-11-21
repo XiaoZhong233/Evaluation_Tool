@@ -1,0 +1,8 @@
+.idea/*
+log/*
+*.pth
+__pycache__
+test_dataset/*
+resource/*
+*.ts
+dataset
